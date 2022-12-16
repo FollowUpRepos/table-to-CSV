@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #333;
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3vw;
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 0 1em;
+  text-align: center;
+}
+
+th {
+  font-size: 3.5vw;
+  font-weight: bold;
+}
